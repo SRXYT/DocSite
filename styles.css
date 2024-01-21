@@ -1,0 +1,11 @@
+h1{
+    color: #17130c;
+    margin-left: 50%;
+}
+body{
+    background-color: #f5deb3 !important;
+}
+.sidebar{
+    background-color: #b19560 !important;
+    border-right: 50px solid !important;
+}
